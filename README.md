@@ -1,5 +1,4 @@
-# Name
-Notepad--
+
 
 # Description
 - The application is a clone of Notepad++
